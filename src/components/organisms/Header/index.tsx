@@ -11,7 +11,7 @@ export function Header() {
 
   return (
     <header className="bg-white">
-      <div className="w-full py-4 md:py-8.25">
+      <div className="w-full py-4 md:py-8.25 lg:px-18">
         <Container className="flex items-center justify-between">
           <Logo />
 
